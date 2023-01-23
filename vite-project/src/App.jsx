@@ -7,6 +7,7 @@ function App() {
     <div className="flex">
       <Sidebar />
       <ChannelBar />
+      <ContentContainer />
     </div>
   )
 }
