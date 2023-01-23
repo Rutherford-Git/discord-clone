@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="flex">
-      <Sidebar />
+                    <Sidebar />
       <ChannelBar />
       <ContentContainer />
     </div>
