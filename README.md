@@ -9,4 +9,5 @@
 - back end api of users with end points for posts (need at least 4 users)
 - add functionality for bottom bar for posts
 - add functionality for channelBar to direct users to specific rooms
-- add file storage capabilities 
+- add file storage capabilities
+- add video streaming
