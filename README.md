@@ -11,3 +11,4 @@
 - add functionality for channelBar to direct users to specific rooms
 - add file storage capabilities
 - add video streaming
+- create a progressive web app
