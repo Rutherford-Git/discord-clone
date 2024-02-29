@@ -12,3 +12,6 @@
 - add file storage capabilities
 - add video streaming
 - create a progressive web app
+
+# Last worked on
+- project continued on mobile ide
