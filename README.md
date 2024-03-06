@@ -1,8 +1,8 @@
 
 
 # To start app:
-- npm install
 - cd vite-project
+- npm install
 - npm run dev
 
 # Need to add
