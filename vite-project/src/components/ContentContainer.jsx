@@ -12,7 +12,7 @@ const ContentContainer = () => {
           text={`Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit
           amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur
           adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
-          ipsum dolor sit amet consectetur adipisicing elit.`}
+          ipsum dolor amet consectetur adipisicing elit.`}
         />
         <Post
           name="Leon"
