@@ -216,6 +216,8 @@
   }
 }
 
+//using tailwind css make it mobile friendly 
+
 @tailwind utilities;
 
 ::-webkit-scrollbar {
